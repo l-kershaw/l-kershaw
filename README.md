@@ -1,8 +1,10 @@
 ### Hi there, I'm Luke 👋
 
-I am a PhD student in the School of Mathematics, at the University of Bristol, UK.
-My research focuses on homological algebra and representation theory.
-I also have experience in data science, and am interested in a wide range of maths and computing.
+Backend software developer writing reliable, scalable code.
+Experienced in problem solving across research and industry using programming and data science. 
+
+From 2019 to 2023 I completed a PhD in Mathematics at the University of Bristol, UK.
+My research focused on homological algebra and representation theory.
 
 <!--
 **l-kershaw/l-kershaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
